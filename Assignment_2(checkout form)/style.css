@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#checkoutForm{
+    width:40%;
+    height:93vh;
+    margin:auto;
+    margin-top:2%;
+    font-size:14px;
+    padding:3%;
+    border-radius:4px;
+}
+body{
+    background-color: rgb(209, 71, 184,0.8);
+}
+.bgColor{
+    background-color: rgb(161, 36, 138);
+    color:white;
+
+}
+.color-p{
+    color:rgb(161, 36, 138);
+}
+.error{
+    color:red;
+}
+.borderRed{
+    border:1px solid red;
+}
